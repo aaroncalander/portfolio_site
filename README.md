@@ -1,3 +1,5 @@
-** portfolio_site / HTML5 / CSS3 / responsive design
+# portfolio_site / HTML5 / CSS3 / responsive design
 
 * This website was designed to practice building a homepage from scratch and making it fully responsive.
+
+![Homepage](homepage_screenshot.png?raw=true "Homepage Screenshot")

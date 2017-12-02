@@ -27,8 +27,8 @@ a:hover, a:active {
 }
 
 .mainHeader img {
-  width: 30%;
-  height: auto;
+  width: 100%;
+  height: 250px;
   margin: 2% 0;
 }
 
